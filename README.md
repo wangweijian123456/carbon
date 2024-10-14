@@ -27,7 +27,7 @@ git clone https://github.com/wangweijian123456/carbon.git
 cd carbon
 ```
 
-2.准备配置文件 config.json，确保文件包含能源和原材料的碳排放系数，例如：
+2. 准备配置文件 config.json，确保文件包含能源和原材料的碳排放系数，例如：
 ```json
 {
   "energy": [
@@ -42,11 +42,11 @@ cd carbon
 }
 ```
 
-3.运行程序:
+3. 运行程序:
 ```bash
 python carbon.py
 ```
-4.运行示例:
+4. 运行示例:
 ```plaintext
 ------ 能源 -------
 0) 电力
@@ -75,11 +75,11 @@ python carbon.py
 总碳排放量：50.0 + 242.0 + 800.0 + 125.0 + 190.0 = 1407.0 kg CO₂e
 ```
 ### 修改配置
-运行程序:
+1. 运行程序:
 ```bash
 python modify_config.py
 ```
-运行示例：
+2. 运行示例：
 ```plaintext
 当前配置：
 ------能源-------
