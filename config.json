@@ -1,0 +1,36 @@
+{
+    "energy": [
+        {
+            "name": "电力",
+            "unit": "kwh",
+            "size": 0.5
+        },
+        {
+            "name": "天然气",
+            "unit": "m³",
+            "size": 2.75
+        },
+        {
+            "name": "煤碳",
+            "unit": "kg",
+            "size": 2.42
+        }
+    ],
+    "materials": [
+        {
+            "name": "铝",
+            "unit": "kg",
+            "size": 8.0
+        },
+        {
+            "name": "钢",
+            "unit": "kg",
+            "size": 1.9
+        },
+        {
+            "name": "塑料",
+            "unit": "kg",
+            "size": 2.5
+        }
+    ]
+}
